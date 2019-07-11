@@ -39,7 +39,7 @@
 </template>
 
 <script>
-  import TodoHeader from "./components/Header.vue";
+  import TodoHeader from "./components/header/Header.vue";
 
 export default {
   name: 'todo-list',
