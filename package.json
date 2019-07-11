@@ -2,7 +2,7 @@
   "name": "todo_list_vue",
   "version": "1.0.0",
   "description": "A Vue.js project for studying",
-  "author": "bomi <a51022866@gmail.com>",
+  "author": "bomi <dev.bomik6@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
